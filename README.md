@@ -15,6 +15,10 @@
 * pytorch
 
 
+### Rulare
+
+run detect.py
+
 ## Contribuitori
 
  Vlada Pulbere    [@peoplecallitinsanity](https://github.com/peoplecallitinsanity)
