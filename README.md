@@ -25,4 +25,5 @@ realizat de Vlada Pulbere și Panfil Anastasia
 
 Inspirație: 
 * [Yolov5](https://github.com/ultralytics/yolov5)
-* [Kaggle Dataset 1] (https://www.kaggle.com/datasets/grassknoted/asl-alphabet)
+* [Kaggle Dataset 1](https://www.kaggle.com/datasets/grassknoted/asl-alphabet)
+* [Kaggle Dataset 1](https://www.kaggle.com/datasets/kapillondhe/american-sign-language)
