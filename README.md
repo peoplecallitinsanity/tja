@@ -20,8 +20,9 @@ realizat de Vlada Pulbere și Panfil Anastasia
 
  Vlada Pulbere    [@peoplecallitinsanity]([https://github.com/peoplecallitinsanity]))
  
- Anastasia Panfil    [@peoplecallitinsanity]([https://github.com/peoplecallitinsanity]))
+ Anastasia Panfil    [@peoplecallitinsanity]([https://github.com/anastasiaapanfil]))
 
 
 Inspirație: 
-* [Yolov5](https://github.com/matiassingers/awesome-readme)
+* [Yolov5](https://github.com/ultralytics/yolov5)
+* [Kaggle Dataset 1] (https://www.kaggle.com/datasets/grassknoted/asl-alphabet)
