@@ -18,9 +18,9 @@ realizat de Vlada Pulbere și Panfil Anastasia
 
 ## Contribuitori
 
- Vlada Pulbere    [@peoplecallitinsanity]([https://github.com/peoplecallitinsanity]))
+ Vlada Pulbere    [@peoplecallitinsanity](https://github.com/peoplecallitinsanity)
  
- Anastasia Panfil    [@peoplecallitinsanity]([https://github.com/anastasiaapanfil]))
+ Anastasia Panfil    [@peoplecallitinsanity](https://github.com/anastasiaapanfil)
 
 
 Inspirație: 
