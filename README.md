@@ -19,6 +19,9 @@
 
 run detect.py
 
+hit "q" key for exiting the app
+hit "enter" key for typing a letter on the screen
+
 ## Contribuitori
 
  Vlada Pulbere    [@peoplecallitinsanity](https://github.com/peoplecallitinsanity)
