@@ -10,7 +10,7 @@ accuracy = list()
 frames = list()
 mesaj = list()
 def run():
-    model = torch.hub.load(r'D:\Python\signl\yolov5', 'custom', path=r'D:\Python\signl\yolov5\best.pt', source='local')
+    model = torch.hub.load(r'yolov5', 'custom', path=r'yolov5\best.pt', source='local')
     sentence2 = ''
     cap = cv2.VideoCapture(0)
     count = 1
@@ -37,7 +37,7 @@ def run():
             cv2.putText(frame, text, (500, 20), font, 1, (222, 222, 222), 1)
         cv2.putText(frame, sentence2, (80, 420), font, 2, (222, 222, 222), 2)
         cv2.imshow('Detectarea literelor alfabetului American.', frame)
-        cv2.imwrite("D:\\Python\\tekwill\\images\\frame%d.jpg" % count, frame)
+        cv2.imwrite("images\\frame%d.jpg" % count, frame)
         count += 1
 
         if key == ord('q'):
